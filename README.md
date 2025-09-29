@@ -47,4 +47,6 @@ Database: NoSQL (e.g.MongoDB) for flexible, scalable data storage and fast query
 @My Role： Responsible for both frontend and backend development (Full-Stack Developer)
 Name of Part：
 Frontend: React.js, Tailwind CSS         
-Backend: Node.js, Express<img width="522" height="610" alt="intan login page1" src="https://github.com/user-attachments/assets/ad0e0368-fc60-4411-9d87-4256a8bf69d0" />
+Backend: Node.js, Express
+
+<img width="522" height="610" alt="intan login page1" src="https://github.com/user-attachments/assets/ad0e0368-fc60-4411-9d87-4256a8bf69d0" />
